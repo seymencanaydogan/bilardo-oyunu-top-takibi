@@ -1,0 +1,4 @@
+Görüntü işleme tekniklerini kullanarak, bilardo oyununda topların takibini yapan bir program geliştirilmesi istenmektedir. Geliştirilen programın ana hedefi girdi olarak verilen avi uzantılı video dosyasından bilardo toplarının video boyuncaki hareketini gösteren bir görüntü oluşturulmasıdır. Karambol bilardo adı verilen oyundan alınan iki adet video karambol bilardo dosyası içerisinde verilmiştir. Oyunda kırmızı, sarı ve beyaz renkte 3 adet top bulunmaktadır. Geliştireceğiniz yazılımın video’yu bir girdi olarak alıp,
+1. Sadece kırmızı topun video boyunca hareketini ve hızını gösteren bir görüntü oluşturması,
+2. Hamlenin başlangıç (beyaz topla vurulma anı) ve hamlenin bitiş (topların hareketinin bitiş anı) anını belirtmesi gerekmektedir.
+3. Bir videoyu algoritmanızı geliştirmek için kullanın daha sonra diğer video ile test edip sonuçlarını yorumlayınız.
